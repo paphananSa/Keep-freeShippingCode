@@ -1,0 +1,21 @@
+{
+  "name": "keep-freeshippingcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paphananSa/Keep-freeShippingCode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paphananSa/Keep-freeShippingCode/issues"
+  },
+  "homepage": "https://github.com/paphananSa/Keep-freeShippingCode#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
