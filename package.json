@@ -1,20 +1,20 @@
 {
-  "name": "keep-freeshippingcode",
+  "name": "playwright-testdemo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paphananSa/Keep-freeShippingCode.git"
+    "url": "git+https://github.com/paphananSa/playwright-testdemo.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/paphananSa/Keep-freeShippingCode/issues"
+    "url": "https://github.com/paphananSa/playwright-testdemo/issues"
   },
-  "homepage": "https://github.com/paphananSa/Keep-freeShippingCode#readme",
+  "homepage": "https://github.com/paphananSa/playwright-testdemo#readme",
   "devDependencies": {
     "@playwright/test": "^1.30.0"
   }
